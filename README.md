@@ -1,0 +1,1 @@
+# LoRa_E5_HF-module-by-Seeed-Studio
